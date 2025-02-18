@@ -9,10 +9,10 @@ main:
     url: "/team/"
     weight: 4
   - name: "Tài Trợ"
-    url: "/team/"
+    url: "/donate/"
     weight: 5
   - name: "Nộp Đơn"
-    url: "/contact/"
+    url: "/submit/"
     weight: 6
   - name: "Liên Hệ"
     url: "/contact/"
