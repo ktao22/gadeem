@@ -8,10 +8,15 @@ main:
   - name: "Đội Ngũ"
     url: "/team/"
     weight: 4
+  - name: "Tài Trợ"
+    url: "/team/"
+    weight: 5
+  - name: "Nộp Đơn"
+    url: "/contact/"
+    weight: 6
   - name: "Liên Hệ"
     url: "/contact/"
-    weight: 5
-
+    weight: 7
 footer:
   - name: "Home"
     url: "/"
