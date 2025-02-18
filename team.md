@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Tập thể SEAS (Team)
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Đội ngũ tại SEAS bao gồm các nghiên cứu sinh và chuyên viên từ các trường đại học, tập đoàn công nghệ hàng đầu thế giới cùng với học sinh, thầy cô giáo ở tại địa phương - The team at SEAS consists of graduate students and professionals from world-class universities, leading global technology corporations, as well as local students and teachers.

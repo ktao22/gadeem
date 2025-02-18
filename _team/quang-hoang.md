@@ -7,4 +7,4 @@ promoted: true
 weight: 2
 ---
 
-Marketing @ VNPay. 
+Marketing @ VNPay.

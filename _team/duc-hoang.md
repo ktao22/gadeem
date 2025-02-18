@@ -7,4 +7,4 @@ promoted: true
 weight: 1
 ---
 
-Nghiên Cứu Sinh Tiến Sỹ tại MIT và CERN. (PhD Candidate, MIT/CERN)
+Nghiên Cứu Sinh Tiến Sĩ tại MIT và CERN. (PhD Candidate, MIT/CERN)
