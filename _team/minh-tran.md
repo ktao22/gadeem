@@ -6,4 +6,4 @@ jobtitle: "Sáng Lập & Ban Tổ Chức (Founder & Organizer)"
 promoted: true
 weight: 2
 ---
-Researcher @ Ericsson Research, THPT Chuyên Phan Bội Châu k43, [tranhuubinhminh.com](https://tranhuubinhminh.com).
+Researcher @ Ericsson Research, Chuyên Phan Bội Châu K43, [tranhuubinhminh.com](https://tranhuubinhminh.com).
