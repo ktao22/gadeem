@@ -6,7 +6,7 @@ jobtitle: "Sáng Lập & Ban Tổ Chức (Founder & Organizer)"
 promoted: true
 weight: 2
 ---
-Researcher @ Ericsson Research, Chuyên Phan Bội Châu K43, [tranhuubinhminh.com](https://tranhuubinhminh.com).
+Researcher @ Ericsson, Chuyên Phan Bội Châu K43, [tranhuubinhminh.com](https://tranhuubinhminh.com).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
