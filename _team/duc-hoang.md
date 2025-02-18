@@ -2,7 +2,7 @@
 title: "Duc Hoang"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Founder & Organizer (Thành Lập, Ban Tổ Chức)"
+jobtitle: "Sáng Lập, Ban Tổ Chức, Giảng Dạy (Founder, Organizer & Lecturer)"
 promoted: true
 weight: 1
 ---
