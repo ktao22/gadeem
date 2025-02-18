@@ -6,4 +6,4 @@ jobtitle: "Sáng Lập & Ban Tổ Chức (Founder & Organizer)"
 promoted: true
 weight: 2
 ---
-Chuyên viên Nghiên Cứu tại Ericsson Research Japan (Researcher at Ericsson Research Japan). Learn more about me at [tranhuubinhminh.com](https://tranhuubinhminh.com).
+Researcher @ Ericsson Research Japan, more at [tranhuubinhminh.com](https://tranhuubinhminh.com).
