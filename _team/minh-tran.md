@@ -7,6 +7,6 @@ promoted: true
 weight: 1
 ---
 
-Chuyên viên Nghiên Cứu tại Ericsson Research Japan (Researcher at Ericsson Research Japan).
+[comment]: # (The weight is to be modified later after more people joins.)
 
-Learn more about me at [tranhuubinhminh.com](https://tranhuubinhminh.com).
+Chuyên viên Nghiên Cứu tại Ericsson Research Japan (Researcher at Ericsson Research Japan). Learn more about me at [tranhuubinhminh.com](https://tranhuubinhminh.com).
