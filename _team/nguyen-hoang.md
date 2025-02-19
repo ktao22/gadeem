@@ -5,7 +5,7 @@ image: "images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: "Trợ Giảng (Mentor)"
 linkedinurl: "https://www.linkedin.com/in/hknguyen20/"
 promoted: true
-weight: 1
+weight: 2
 ---
 
 Kỹ sư AI tại Fsoft-AIC (AI Engineer, FSoft-AIC)
