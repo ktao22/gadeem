@@ -7,3 +7,4 @@ linkedinurl: ""
 weight: 7
 ---
 
+You can call me chishiya (チシヤ), ain’t nothing but a fruit lover (๑>◡<๑)
