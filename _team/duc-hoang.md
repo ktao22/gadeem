@@ -7,4 +7,4 @@ promoted: true
 weight: 1
 ---
 
-Nghiên Cứu Sinh Tiến Sĩ tại MIT và CERN, Chuyên Võ Nguyên Giáp 14-17. 
+Nghiên Cứu Sinh Tiến Sĩ tại MIT và CERN (PhD Candidate @ MIT/CERN), Chuyên Võ Nguyên Giáp 14-17. 
