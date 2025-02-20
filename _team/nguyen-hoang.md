@@ -8,4 +8,4 @@ promoted: true
 weight: 2
 ---
 
-Kỹ sư AI tại Fsoft-AIC (AI Engineer, FSoft-AIC)
+Kỹ sư AI tại Fsoft-AIC (AI Engineer, FSoft-AIC). Chuyên Anh Võ Nguyên Giáp Khoá 
