@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Chương Trình Đào Tạo Tiên Tiến",
+    "description": "Khám phá những công nghệ và xu hướng khoa học hàng đầu – từ Trí tuệ Nhân tạo (AI), Năng lượng Tái tạo, đến Phản ứng Nhiệt hạch và Điện toán Lượng tử. Các khóa học mang tính thực hành cao, giúp bạn phát triển tư duy sáng tạo và kỹ năng giải quyết vấn đề.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Trải Nghiệm Thực Hành",
+    "description": "Nâng cao kỹ năng thông qua các buổi thí nghiệm và làm việc nhóm. Thiết kế mô hình, tiến hành thử nghiệm, và hợp tác với bạn bè để biến ý tưởng thành sản phẩm thực tế.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Hướng Dẫn Từ Chuyên Gia",
+    "description": "Được dẫn dắt bởi đội ngũ giảng viên giàu kinh nghiệm và các chuyên gia trong ngành. Nhận tư vấn cá nhân, định hướng nghề nghiệp, và hiểu sâu hơn về những lĩnh vực mới nổi trong kỹ thuật và khoa học ứng dụng.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

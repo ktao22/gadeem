@@ -1,10 +1,11 @@
 ---
 title: "Hoàng Minh Quang"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/Quang-Hoang.jpg"
 jobtitle: "Trưởng Marketing & Media (Director of Marketing & Media)"
+linkedinurl: "https://www.linkedin.com/in/quanghoang712/"
 promoted: true
 weight: 2
 ---
 
-Marketing @ VNPay.
+Cử nhân Marketing tại UEH-ISB international School of Business. Chuyên Lý Võ Nguyên Giáp Khoá 18-21.
