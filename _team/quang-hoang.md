@@ -8,4 +8,4 @@ promoted: true
 weight: 2
 ---
 
-Cử nhân Marketing tại UEH-ISB International School of Business. Chuyên Lý Võ Nguyên Giáp Khoá 18-21.
+Cử nhân Marketing tại UEH-ISB International School of Business. Chuyên Võ Nguyên Giáp 18-21.

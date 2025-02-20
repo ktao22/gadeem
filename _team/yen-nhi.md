@@ -6,6 +6,6 @@ jobtitle: "Graphic Designer"
 linkedinurl: ""
 weight: 7
 ---
-Không Chuyên Khoá 23-26, THPT chuyên Võ Nguyên Giáp. 
+Chuyên Võ Nguyên Giáp 23-26
 
 You can call me chishiya (チシヤ), ain’t nothing but a fruit lover (๑>◡<๑)
