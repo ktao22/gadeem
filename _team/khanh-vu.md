@@ -8,4 +8,6 @@ linkedinurl: "https://www.linkedin.com/in/khanh-vu-8ab001292/"
 weight: 2
 ---
 
-Sinh viên năm 3 tại UCI, ngành Computer Science chuyên môn AI.
+Sinh viên năm 3 tại UC Irvine, ngành Computer Science chuyên môn AI.       
+
+
