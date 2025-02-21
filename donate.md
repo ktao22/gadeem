@@ -8,7 +8,7 @@ Chúng tôi kêu gọi đối tác tài trợ để nâng cao chương trình SE
 
 Mọi hỗ trợ tài chính xin quý vị vui lòng liên hệ qua email, Facebook hoặc chuyển khoản trực tiếp tới STK: 19073810358015, Techcombank, Nguyễn Thế Quỳnh.
 
-![Bank Info](/images/bank/bank_info.jpg)
+![Bank Info](/images/bank/bank_info.jpg){width="300px"}
 
 Nhằm đảm bảo tính minh bạch, sau khi nhận được sự ủng hộ, thông tin của các nhà tài trợ sẽ được đăng tải công khai trên trang web:
 
