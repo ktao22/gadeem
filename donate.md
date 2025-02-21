@@ -6,7 +6,7 @@ description: Tài Trợ
 
 Chúng tôi kêu gọi đối tác tài trợ để nâng cao chương trình SEAS, mở rộng cơ hội học tập cho học sinh THPT miền Trung. Sự đồng hành của quý vị sẽ góp phần phát triển khoa học công nghệ tiên tiến và kiến tạo tương lai cho thế hệ trẻ Việt Nam.
 
-Mọi hỗ trợ tài chính xin quý vị vui lòng liên hệ qua email, Facebook hoặc chuyển khoản trực tiếp tới STK: 19073810358015, Techcombank, Nguyễn Thế Quỳnh.
+Mọi hỗ trợ tài chính xin quý vị vui lòng liên hệ qua email, Facebook hoặc chuyển khoản trực tiếp tới STK: 19073810358015, Techcombank, Nguyễn Thế Quỳnh, mã QR:
 
 ![Bank Info](/images/bank/bank_info.jpg){: style="width:300px;"}
 
