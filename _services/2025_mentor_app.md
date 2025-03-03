@@ -4,6 +4,8 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
+[Đơn ứng tuyển trợ giảng](https://shorturl.at/RhaWW)
+
 📌 Trường hè Kỹ thuật và Khoa học Ứng dụng Miền Trung (SEAS) là một tổ chức phi lợi nhuận với sứ mệnh tạo ra cơ hội học tập miễn phí và chất lượng cho học sinh trung học phổ thông. Tại SEAS, các học sinh sẽ được trực tiếp hướng dẫn bởi các nghiên cứu sinh và chuyên gia hàng đầu đến từ những trường đại học danh tiếng cũng như các tập đoàn công nghệ tiên phong. Chúng tôi tin rằng tri thức là chìa khóa mở ra tương lai, vì vậy SEAS cam kết mang đến một chương trình học hiện đại, sáng tạo và thực tiễn, giúp học sinh khám phá niềm đam mê với kỹ thuật và khoa học ứng dụng.
 SEAS 2025 sẽ diễn ra tại Đồng Hới, Quảng bình từ ngày 21/07 đến 01/8 năm 2025, với chủ đề Trí tuệ nhân tạo và Ứng dụng. Nội dung giảng dạy bao gồm:
 
@@ -15,7 +17,7 @@ SEAS 2025 sẽ diễn ra tại Đồng Hới, Quảng bình từ ngày 21/07 đ�
 
 Chúng tôi đang tìm kiếm những cá nhân nhiệt huyết, có động lực và kinh nghiệm để gia nhập đội ngũ trợ giảng của SEAS. Đây là cơ hội để bạn chia sẻ kiến thức, phát triển kỹ năng giảng dạy và góp phần định hình tương lai cho thế hệ trẻ đam mê khoa học và công nghệ.
 
-Đội ngũ hiện tại của SEAS: https://seas-cvn.com/team/
+Đội ngũ hiện tại của SEAS: [https://seas-cvn.com/team/](https://seas-cvn.com/team/)
 
 📍 Lưu ý tuyển dụng:
 
@@ -43,17 +45,11 @@ Mở rộng mạng lưới kết nối: Cơ hội gặp gỡ, làm việc và x�
 
 📍 Cách thức đăng ký:
 
-Truy cập: https://shorturl.at/RhaWW
+Truy cập: [https://shorturl.at/RhaWW](https://shorturl.at/RhaWW)
 
 Nếu bạn đam mê chia sẻ kiến thức và mong muốn tạo nên sự khác biệt trong giáo dục, hãy gia nhập đội ngũ của SEAS để truyền cảm hứng cho thế hệ trẻ. 
 
 📌 Nếu có thắc mắc hoặc bất kì câu hỏi gì trong quá trình tuyển dụng trợ giảng, hãy liên hệ với SEAS thông qua:
-
-🌐 Website chính thức: https://seas-cvn.com/
-
-Liên hệ: seas.cvn@gmail.com
-
-Theo dõi tại: Facebook.com/seas.cvn
 
 
 
