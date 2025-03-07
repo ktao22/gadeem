@@ -5,7 +5,7 @@ image: "images/team/Nguyen-Hoang.jpg"
 jobtitle: "Trợ Giảng (Teaching Assistant)"
 linkedinurl: "https://www.linkedin.com/in/hknguyen20/"
 promoted: true
-weight: 2
+weight: 3
 ---
 
 Kỹ sư AI tại Fsoft-AIC (AI Engineer, FSoft-AIC). Chuyên Võ Nguyên Giáp 17-20.
