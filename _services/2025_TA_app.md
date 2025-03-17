@@ -1,10 +1,14 @@
 ---
-title: "Tuyển dụng trợ giảng 2025"
+title: "Tuyển dụng trợ giảng 2025 (Closed)"
 date: 2018-11-18T12:33:46+10:00
-weight: 1
+weight: 10
 ---
 
-[Đơn ứng tuyển trợ giảng](https://shorturl.at/RhaWW)
+Hiện tại đơn ứng tuyển trợ giảng đã đóng! Cảm ơn các bạn đã dành sự quan tâm đến thông báo tuyển dụng trợ giảng! 
+
+Sau một khoảng thời gian tiếp nhận hồ sơ, SEAS rất vui khi nhận được sự tham gia đông đảo của những bạn trẻ tài năng, đam mê và nhiệt huyết. Đừng buồn nếu kết quả không như mong đợi, SEAS tin rằng cơ hội tốt hơn vẫn luôn rộng mở cho những ai giữ vững niềm đam mê và quyết tâm!
+
+----
 
 📌 Trường hè Kỹ thuật và Khoa học Ứng dụng Miền Trung (SEAS) là một tổ chức phi lợi nhuận với sứ mệnh tạo ra cơ hội học tập miễn phí và chất lượng cho học sinh trung học phổ thông. Tại SEAS, các học sinh sẽ được trực tiếp hướng dẫn bởi các nghiên cứu sinh và chuyên gia hàng đầu đến từ những trường đại học danh tiếng cũng như các tập đoàn công nghệ tiên phong. Chúng tôi tin rằng tri thức là chìa khóa mở ra tương lai, vì vậy SEAS cam kết mang đến một chương trình học hiện đại, sáng tạo và thực tiễn, giúp học sinh khám phá niềm đam mê với kỹ thuật và khoa học ứng dụng.
 SEAS 2025 sẽ diễn ra tại Đồng Hới, Quảng bình từ ngày 21/07 đến 01/8 năm 2025, với chủ đề Trí tuệ nhân tạo và Ứng dụng. Nội dung giảng dạy bao gồm:

@@ -8,6 +8,6 @@ bodyClass: page-about
 # Đơn cho học sinh THPT ứng tuyển trường hè
 Trường hè sẽ mở cửa tuyển sinh từ 01/4 - 31/5/2025
 
-# Đơn ứng tuyển trợ giảng
+# Đơn ứng tuyển trợ giảng (closed)
 
-Các bạn muốn ứng tuyển vào vị trí trợ giảng xin hãy nộp đơn thông qua: [https://shorturl.at/RhaWW](https://shorturl.at/RhaWW)
+Đơn ứng tuyển trợ giảng hiện tại đã được đóng.
