@@ -14,7 +14,7 @@ Nhằm đảm bảo tính minh bạch, sau khi nhận được sự ủng hộ, 
 
 # Nhà Hảo Tâm 2025
 
-| Tên     | Số Tiền hoặc tài trợ vật chất|
+| Tên     | Số Tiền hoặc Tài Trợ Vật Chất|
 |---------|-----------------|
 | Phan Tố Huyền | Trang, đồng phục cho khoá học SEAS  |
 | Giấu tên | Chuyến đi Phong Nha |
