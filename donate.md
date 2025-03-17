@@ -17,6 +17,6 @@ Nhằm đảm bảo tính minh bạch, sau khi nhận được sự ủng hộ, 
 | Tên     | Số Tiền hoặc tài trợ vật chất|
 |---------|-----------------|
 | Giấu tên | Chuyến đi Phong Nha |
-| Nguyễn Ngọc Tuấn (chủ tịch huyện Bố Trạch) | 10,000,000 ₫ |
+| Nguyễn Ngọc Tuấn (Bố Trạch) | 10,000,000 ₫ |
 | Dang Phuoc (Du học Edu4life) | 2,000,000 ₫ |
 | Giấu tên | 15,000 ₫ |
