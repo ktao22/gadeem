@@ -16,8 +16,9 @@ Nhằm đảm bảo tính minh bạch, sau khi nhận được sự ủng hộ, 
 
 | Tên     | Số Tiền hoặc Tài Trợ Vật Chất|
 |---------|-----------------|
+| Vương Tiến Thành Bakery - Quảng Bình | Tài trợ bữa sáng toàn bộ học viên SEAS |
 | Phan Tố Huyền | Trang, đồng phục cho khoá học SEAS  |
-| Giấu tên | Chuyến đi Phong Nha |
+| Cựu phụ huynh chuyên Lý THPT chuyên Võ Nguyên Giáp | Chuyến đi Phong Nha |
 | Nguyễn Ngọc Tuấn (Bố Trạch) | 10,000,000 ₫ |
 | Dang Phuoc (Du học Edu4life) | 2,000,000 ₫ |
 | Giấu tên | 15,000 ₫ |
