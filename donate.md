@@ -20,5 +20,6 @@ Nhằm đảm bảo tính minh bạch, sau khi nhận được sự ủng hộ, 
 | Phan Tố Huyền | Trang, đồng phục cho khoá học SEAS  |
 | Cựu phụ huynh chuyên Lý THPT chuyên Võ Nguyên Giáp | Chuyến đi Phong Nha |
 | Nguyễn Ngọc Tuấn (Bố Trạch) | 10,000,000 ₫ |
+| Đoàn Thị Minh Phượng (USA) | 2,500,000 ₫ |
 | Dang Phuoc (Du học Edu4life) | 2,000,000 ₫ |
 | Giấu tên | 15,000 ₫ |
