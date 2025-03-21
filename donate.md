@@ -16,6 +16,7 @@ Nhằm đảm bảo tính minh bạch, sau khi nhận được sự ủng hộ, 
 
 | Tên     | Số Tiền hoặc Tài Trợ Vật Chất|
 |---------|-----------------|
+| Nhà xe Hưng Long | Hỗ trợ đi lại của học viên và trợ giảng từ các tỉnh Hà Nội vào Quảng Bình |
 | Vương Tiến Thành Bakery - Quảng Bình | Tài trợ bữa sáng toàn bộ học viên SEAS |
 | Phan Tố Huyền | Trang, đồng phục cho khoá học SEAS  |
 | Cựu phụ huynh chuyên Lý THPT chuyên Võ Nguyên Giáp | Chuyến đi Phong Nha |
