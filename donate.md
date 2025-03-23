@@ -14,14 +14,14 @@ Nhằm đảm bảo tính minh bạch, sau khi nhận được sự ủng hộ, 
 
 # Nhà Hảo Tâm 2025
 
-| Tên     | Số Tiền hoặc Tài Trợ Vật Chất|
-|---------|-----------------|
-| Nhà xe Hưng Long | Hỗ trợ đi lại của học viên và trợ giảng từ các tỉnh Hà Nội vào Quảng Bình |
-| Vương Tiến Thành Bakery - Quảng Bình | Tài trợ bữa sáng toàn bộ học viên SEAS |
-| Phan Tố Huyền | Trang, đồng phục cho khoá học SEAS  |
-| Cựu phụ huynh chuyên Lý THPT chuyên Võ Nguyên Giáp | Chuyến đi Phong Nha |
-| Nguyễn Ngọc Tuấn (Bố Trạch) | 10,000,000 ₫ |
-| Nghiêm Vũ Nhật Anh (Stony Brook University) | 7,500,000 ₫ |
-| Đoàn Thị Minh Phượng (USA) | 2,500,000 ₫ |
-| Dang Phuoc (Du học Edu4life) | 2,000,000 ₫ |
-| Giấu tên | 15,000 ₫ |
+| Ngày | Tên | Số Tiền hoặc Tài Trợ Vật Chất|
+|---------|---------|-----------------|
+| 21-03-2025 | Nghiêm Vũ Nhật Anh (Stony Brook University) | 7,500,000 ₫ |
+| 19-03-2025 | Đoàn Thị Minh Phượng (Du học APUS) | 2,500,000 ₫ |
+| 18-03-2025 | Vương Tiến Thành Bakery | Tài trợ bữa sáng toàn bộ học viên SEAS |
+| 17-03-2025 | Dang Phuoc (Du học Edu4life) | 2,000,000 ₫ |
+| 17-03-2025 | Nguyễn Ngọc Tuấn (Bố Trạch) | 10,000,000 ₫ |
+| 17-03-2025 | Giấu Tên | 15,000 ₫ |
+| 17-03-2025 | Nhà xe Hưng Long | Hỗ trợ đi lại của học viên và trợ giảng từ các tỉnh Hà Nội vào Quảng Bình |
+| 17-03-2025 | Phan Tố Huyền | Trang, đồng phục cho khoá học SEAS |
+| 17-03-2025 | Cựu phụ huynh chuyên Lý THPT chuyên Võ Nguyên Giáp | Chuyến đi Phong Nha |
