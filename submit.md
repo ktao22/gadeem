@@ -6,7 +6,7 @@ intro_image: "images/team/cover5.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
-![class](images/illustrations/cover5.png)
+![class](images/team/cover5.png)
 # UWC STEM for Peace (OPEN IN APRIL)
 Join us in El-Maadi at Africa Hope Learning Centre this June for the STEM bootcamp! Registration will be open soon.
 
