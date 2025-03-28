@@ -1,12 +1,12 @@
 ---
 title: Nộp Đơn
 layout: page
-description: Nộp Đơn
+description: Open Opportunities
 bodyClass: page-about
 ---
 
-# UWC STEM for Peace (OPEN)
-Join us in El-Maadi at Africa Hope Learning Centre this June for the STEM bootcamp!
+# UWC STEM for Peace (OPEN IN APRIL)
+Join us in El-Maadi at Africa Hope Learning Centre this June for the STEM bootcamp! Registration will be open soon.
 
 # iGCSE Preparation Classes (OPEN FOR NEXT YEAR)
-Online, Google Meets. Classes in iGCSE Mathematics, Sciences.
+Online, Google Meets. Classes in iGCSE Mathematics, Sciences. Join the WhatsApp Community to Learn More!
