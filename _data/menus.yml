@@ -1,20 +1,20 @@
 main:
-  - name: "Giới Thiệu"
+  - name: "About Program"
     url: "/about/"
     weight: 2
-  - name: "Chương Trình"
+  - name: "Classes"
     url: "/services/"
     weight: 3
-  - name: "Đội Ngũ"
+  - name: "Team"
     url: "/team/"
     weight: 4
-  - name: "Tài Trợ"
+  - name: "Donate"
     url: "/donate/"
     weight: 5
-  - name: "Nộp Đơn"
+  - name: "Opportunities"
     url: "/submit/"
     weight: 6
-  - name: "Liên Hệ"
+  - name: "Contact"
     url: "/contact/"
     weight: 7
 footer:
