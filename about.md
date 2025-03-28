@@ -55,6 +55,7 @@ AHLC is located in a relatively small building that once housed a family of 8 in
 
 # Contact
 
-📩 Contact us through the WhatsApp Group
+📩 Contact us through the WhatsApp Group 
+at chat.whatsapp.com/F4fdxZbdIxK3ab3wokqIjb
 
 📲 Facebook: m.facebook.com/61565660014020/
