@@ -2,23 +2,23 @@
   <div class="call-box-top">
     {% if site.data.contact.whatsapp %}
     <div class="call-email"><strong>WhatsApp Community: </strong>
-      <a href="mailto:{{ .site.data.contact.whatsapp }}">
-        {{ site.data.contact.whatsapp }}
+      <a href="https://{{ .site.data.contact.whatsapp }}">
+        {{ Join us! }}
       </a>
     </div>
     {% endif %}
     {% if site.data.contact.instagram %}
-    <div class="call-facebook"><strong>Follow us on Instagram:</strong>
+    <div class="call-facebook"><strong>Follow us on </strong>
         <a href="https://{{ site.data.contact.instagram }}" target="_blank">
-            {{ site.data.contact.instagram }}
+            {{ Instagram }}
         </a>
     </div>
     
     {% endif %}
-    {% if site.data.contact.instagram %}
-    <div class="call-facebook"><strong>Follow us on Facebook:</strong>
+    {% if site.data.contact.facebook %}
+    <div class="call-facebook"><strong>Follow us on </strong>
         <a href="https://{{ site.data.contact.facebook }}" target="_blank">
-            {{ site.data.contact.instagram }}
+            {{ Facebook }}
         </a>
     </div>
     
