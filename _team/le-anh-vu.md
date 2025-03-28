@@ -2,7 +2,8 @@
 title: "Tongtong (Petra) Yang"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/petra.jpeg"
-jobtitle: "Physics Teaching Fellow at UWC Changshu China, Advisor to UWC STEM for Peace"
+jobtitle: "Advisor to UWC STEM for Peace, Physics Teaching Fellow at UWC Changshu China"
+linkedinurl: "https://www.linkedin.com/in/tongtong-yang-petra/"
 promoted: true
 weight: 1
 ---
