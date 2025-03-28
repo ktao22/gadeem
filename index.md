@@ -1,7 +1,7 @@
 ---
 title: Gadeemteam
 layout: home
-description: Dedicated to serving the Sudanese youth through education.illustrated.
+description: Dedicated to serving the Sudanese youth through education.
 intro_image: "images/team/cover1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
