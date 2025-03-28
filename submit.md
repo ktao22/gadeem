@@ -4,6 +4,8 @@ layout: page
 description: Register for Opportunities
 bodyClass: page-about
 intro_image: "images/team/cover5.png"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
 
 # UWC STEM for Peace (OPEN IN APRIL)
