@@ -1,16 +1,16 @@
 <div class="call">
   <div class="call-box-top">
-    {% if site.data.contact.email %}
+    {% if site.data.contact.whatsapp %}
     <div class="call-email"><strong>WhatsApp</strong>
       <a href="mailto:{{ .site.data.contact.whatsapp }}">
-        {{ site.data.contact.email }}
+        {{ site.data.contact.whatsapp }}
       </a>
     </div>
     {% endif %}
-    {% if site.data.contact.facebook %}
+    {% if site.data.contact.instagram %}
     <div class="call-facebook"><strong>Instagram: </strong>
         <a href="https://{{ site.data.contact.instagram }}" target="_blank">
-            {{ site.data.contact.facebook }}
+            {{ site.data.contact.instagram }}
         </a>
     </div>
     {% endif %}
