@@ -46,7 +46,7 @@ This program will help students develop transferable understanding of concepts, 
 
 ✅ Mentorship from Teachers and Students at United World College
 
-✅ Opportunity to Receive Higher Education Guidance
+✅ Higher Education Opportunities Guidance from University Gradutes, Medical Students, UWC Students
 
 ✅ Experience Inter-Cultural Exchange in Sciences
 
