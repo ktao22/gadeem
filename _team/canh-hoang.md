@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Muaz"
 date: 2018-11-19T10:47:58+10:00
-image: "_team/ahmedmuaz.jpeg"
+image: "images/team/ahmedmuaz.jpeg"
 jobtitle: "Founder of Gadeemteam"
 linkedinurl: "https://www.linkedin.com/in/ahmed-muaz/"
 promoted: true
