@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Chương Trình Dạy Học
+# Online Classes
 
-Chương trình học được thiết kế thành hai tuần. Tuần đầu tiên là “Bootcamp Nền tảng”, tập trung vào Python, Đại số tuyến tính và Machine Learning. Tuần thứ hai tập trung vào “Ứng dụng của AI”, với các nội dung về Thị giác máy tính, AI trong khoa học và AI trong mạng máy tính. Ngoài ra, học viên còn được tham gia các dự án nhóm để thực hành và áp dụng kiến thức vào giải quyết các vấn đề thực tiễn.
+Join our Whatsapp Community for online classes on Google Meets covering iGCSE content!
