@@ -3,6 +3,7 @@ title: Nộp Đơn
 layout: page
 description: Register for Opportunities
 bodyClass: page-about
+intro_image: "images/illustrations/cover5.png"
 ---
 
 # UWC STEM for Peace (OPEN IN APRIL)
