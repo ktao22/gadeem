@@ -2,7 +2,7 @@
 title: "Ahmed Muaz"
 date: 2018-11-19T10:47:58+10:00
 image: "_team/ahmedmuaz.jpeg"
-jobtitle: "Co-Founder"
+jobtitle: "Founder of Gadeemteam"
 linkedinurl: "https://www.linkedin.com/in/ahmed-muaz/"
 promoted: true
 weight: 1
