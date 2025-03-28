@@ -3,7 +3,7 @@ title: "Mohamed Muaz"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/mohamed.png"
 jobtitle: "Founder & Organizer of UWC STEM for Peace"
-linkedinurl: "https://www.linkedin.com/in/mohamed-muaz-omer/"
+linkedinurl: "https://www.linkedin.com/in/karen-t-tao-345188263/"
 promoted: true
 weight: 1
 ---
