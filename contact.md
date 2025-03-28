@@ -1,7 +1,7 @@
 ---
-title: Liên Hệ
+title: Contact
 layout: contact
-description: Liên Hệ
+description: Contact
 ---
 
-Mọi thông tin liên hệ vui lòng gửi tới email hoặc nhắn tin ở facebook page.
+Contact us through Facebook (https://www.facebook.com/61565660014020) and Instagram (https://www.instagram.com/gadeemteam.sd/)
