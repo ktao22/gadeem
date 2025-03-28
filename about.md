@@ -20,7 +20,9 @@ Our Program:
 # Program Information
 
 📅 Time: June (Date, Timing and Signup to be released in April)
+
 📍 Location: Africa Hope Learning Centre. Corner of roads 107 and 159 (#18) Maadi, Cairo, Egypt. We are 5 minute walk from the metro station Hadayak Al-Maadi, on the side of the Cornish. 
+
 
 AHLC is located in a relatively small building that once housed a family of 8 in the greater Cairo area. Every possible space is utilized, with both morning and afternoon shifts, in order to accommodate the many students who have sought refuge in Egypt due to war, violence and persecution in their home countries. Due to overcrowding and prejudice in local schools, refugee children need alternate learning centres. AHLC is a safe place of learning for more than 450 refugee children, K-8, with at least 10 different African nations, including North and South Sudan, Eritrea and Ethiopia. It is here where students receive instruction in core subjects, character training, access to basic health care and are guaranteed a nutritious, hot meal each day.
 
@@ -28,14 +30,14 @@ AHLC is located in a relatively small building that once housed a family of 8 in
 
 🎓 Outcome: Certificate of Program Learning, join STEM Fellows Mentorship Program for courses throughout the school year delivered by United World College students
 
-# Chương trình học
+# Curriculum
 ✨ Week 1: Bootcamp (intensive training) of foundational subjects in English and Mathematics.
 
 🚀 Week 2: Science Experiment Exploration - Physics, Biology and Chemistry
 
 👩‍🏫 Week 3: Applications of Sciences - Capstone Project
 
-# Why join the program?
+# Benefits of Program
 ✅ Certificate of Completion
 
 ✅ Mentorship from Teachers and Students at United World College
