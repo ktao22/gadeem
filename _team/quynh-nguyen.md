@@ -1,13 +1,13 @@
 ---
 title: "Karen Tao"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/Quynh-Nguyen.jpg"
-jobtitle: "Co-Founder & Organizer of UWC STEM for Peace"
+image: "images/team/karen.png"
+jobtitle: "Founder & Organizer of UWC STEM for Peace"
 promoted: true
 weight: 1
 ---
 
-United World College 25'
+United World College 25' Graduate
 
 > I would love to give back to UWC through this project. I am immensely grateful for the opportunities at UWC that opened me to so many different perspectives. By chance, meeting Mohamed, sharing our very different stories and collaborating on different projects together in the Peace Council sparked our idea of combining both of our interests to educate for peace. 
 
