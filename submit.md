@@ -1,8 +1,7 @@
 ---
-title: Nộp Đơn
+title: Register for Opportunities
 layout: page
-description: Register for Opportunities
-bodyClass: page-about
+description: 
 intro_image: "images/team/cover5.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
