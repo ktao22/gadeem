@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Muaz"
 date: 2018-11-19T10:47:58+10:00
-imageexternal: "https://tranhuubinhminh.com/media/minh-tran.jpg"
+image: "images/team/mohamed.png"
 jobtitle: "Co-founder of UWC STEM for Peace Program"
 linkedinurl: "https://www.linkedin.com/in/mohamed-muaz-omer/"
 promoted: true
