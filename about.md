@@ -3,6 +3,8 @@ title: STEM for Peace Summer Bootcamp
 layout: page
 description: Join us this June
 intro_image: "images/illustrations/stem.png"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 bodyClass: page-about
 ---
 
