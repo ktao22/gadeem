@@ -2,7 +2,9 @@
 title: Donate
 layout: contact
 description: Donate
-intro_image: "images/illustrations/cover2.png"
+intro_image: "images/illustrations/cover4.png"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
 
 More information to come.
