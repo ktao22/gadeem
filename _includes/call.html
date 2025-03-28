@@ -1,18 +1,27 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.whatsapp %}
-    <div class="call-email"><strong>WhatsApp</strong>
+    <div class="call-email"><strong>Join the Gadeemteam WhatsApp Community: </strong>
       <a href="mailto:{{ .site.data.contact.whatsapp }}">
         {{ site.data.contact.whatsapp }}
       </a>
     </div>
     {% endif %}
     {% if site.data.contact.instagram %}
-    <div class="call-facebook"><strong>Instagram: </strong>
+    <div class="call-facebook"><strong>Follow us on Instagram:</strong>
         <a href="https://{{ site.data.contact.instagram }}" target="_blank">
             {{ site.data.contact.instagram }}
         </a>
     </div>
+    
+    {% endif %}
+    {% if site.data.contact.instagram %}
+    <div class="call-facebook"><strong>Follow us on Facebook:</strong>
+        <a href="https://{{ site.data.contact.facebook }}" target="_blank">
+            {{ site.data.contact.instagram }}
+        </a>
+    </div>
+    
     {% endif %}
   </div>
     {% if include.show_button %}
