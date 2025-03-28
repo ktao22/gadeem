@@ -1,55 +1,58 @@
 ---
-title: Giới Thiệu SEAS
+title: STEM for Peace Summer Bootcamp
 layout: page
-description: Giới Thiệu SEAS 
+description: Join us this June
 bodyClass: page-about
 ---
 
-SEAS (Summer in Engineering and Applied Sciences) là trường hè miễn phí dành cho học sinh THPT miền Trung, được thành lập bởi các chuyên viên nghiên cứu người miền Trung đang làm việc tại các viện nghiên cứu hàng đầu trong nước và thế giới. Mục tiêu của SEAS là giúp các bạn học sinh tiếp cận với các ngành khoa học công nghệ mới như trí tuệ nhân tạo (AI), khoa học dữ liệu, lập trình, năng lượng tái tạo, công nghệ lượng tử, và hơn thế nữa!
+UWC (United World College) STEM for Peace 
 
-📌 SEAS được thành lập để tạo cơ hội cho học sinh THPT:
+📌 Sustainable education project utilizing technology and science educational resources to tackle the problem from two sides. Since April 2023, many families have fled from Sudan to Egypt seeking peace. Due to the huge number, many students were forced to go illegally to Egypt, need to get refugee status in order to be recognised in the country and can only go to certain schools for refugees in Egypt. A major problem with these schools is that they are overloaded and they cannot take as many refugee students as there are, and many families cannot afford the very few necessities for their children to go to school. 
 
-✅ Tiếp cận kiến thức khoa học và kỹ thuật tiên tiến.
+Our Program:
 
-✅ Gặp gỡ, giao lưu với bạn bè và các anh chị đi trước có cùng chí hướng.
+✅ 3-week bootcamp in sciences and mathematics
 
-✅ Định hướng nghề nghiệp, trang bị kỹ năng và hồ sơ để ứng tuyển đại học, du học.
+✅ Hardware: Building mini science lab in Africa Hope Learning Centre for experimental science learning
 
-# Thông tin chương Trình
+✅ Software: HopEd, a self-paced learning app based on relevant local curriculums to help students catch up with gaps in education; Summer Bootcamp + Short Courses during the term taught by on-site and online teachers from United World College
 
-📅 Thời gian: 21/7 - 01/8/2025
+# Program Information
 
-📍 Địa điểm: THPT Chuyên Võ Nguyên Giáp, Quảng Bình (luân phiên các tỉnh miền Trung).
+📅 Time: June (Date, Timing and Signup to be released in April)
+📍 Location: Africa Hope Learning Centre. Corner of roads 107 and 159 (#18) Maadi, Cairo, Egypt. We are 5 minute walk from the metro station Hadayak Al-Maadi, on the side of the Cornish. 
 
-🎯 Chủ đề 2025: Trí tuệ nhân tạo & Ứng dụng.
+AHLC is located in a relatively small building that once housed a family of 8 in the greater Cairo area. Every possible space is utilized, with both morning and afternoon shifts, in order to accommodate the many students who have sought refuge in Egypt due to war, violence and persecution in their home countries. Due to overcrowding and prejudice in local schools, refugee children need alternate learning centres. AHLC is a safe place of learning for more than 450 refugee children, K-8, with at least 10 different African nations, including North and South Sudan, Eritrea and Ethiopia. It is here where students receive instruction in core subjects, character training, access to basic health care and are guaranteed a nutritious, hot meal each day.
 
-🎓 Quy mô: Tối đa khoảng 40 học sinh xuất sắc (ưu tiên đến từ miền Trung).
+🎯 Goals: Experimental and Theoretical STEM Skills Spanning Mathematics, Sciences
+
+🎓 Outcome: Certificate of Program Learning, join STEM Fellows Mentorship Program for courses throughout the school year delivered by United World College students
 
 # Chương trình học
-✨ Tuần 1: Bootcamp (huấn luyện tập trung) các môn nền tảng như lập trình Python, Đại số tuyến tính, Học máy (Machine Learning).
+✨ Week 1: Bootcamp (intensive training) of foundational subjects in English and Mathematics.
 
-🚀 Tuần 2: Ứng dụng của AI (Thị giác máy tính, AI trong khoa học & AI trong mạng máy tính) và làm việc nhóm (group projects) để áp dụng kiến thức để giải quyết các vấn đề thực tiễn.
+🚀 Week 2: Science Experiment Exploration - Physics, Biology and Chemistry
 
-👩‍🏫 Học cùng chuyên viên, nghiên cứu sinh, sinh viên đại học từ Harvard, MIT, Stony Brook, Ericsson Research, CERN, UC Irvine, FPT, VinAI,... Trong đó có nhiều người từng giành được Huy chương Olympic Quốc tế các môn khoa học. 
+👩‍🏫 Week 3: Applications of Sciences - Capstone Project
 
-# Lợi ích khi tham gia
-✅ Giấy chứng nhận hoàn thành.
+# Why join the program?
+✅ Certificate of Completion
 
-✅ Kết nối với chuyên gia, sinh viên từ các trường đại học hàng đầu.
+✅ Mentorship from Teachers and Students at United World College
 
-✅ Cơ hội nhận thư giới thiệu hỗ trợ hồ sơ du học.
+✅ Opportunity to Receive Higher Education Guidance
 
-✅ Trải nghiệm giao lưu & du lịch tại Quảng Bình.
+✅ Experience Inter-Cultural Exchange in Sciences
 
-# Tuyển sinh từ 01/4 - 31/5/2025
-📌 Tiêu chí xét tuyển: Thành tích học tập, bài luận cá nhân, giải thưởng, thông tin của một giáo viên mà BTC có thể liên lạc để nắm rõ hơn về học sinh.
+# Enrollment from April 20 - May 1st, 2025
+📌 Admission Criteria: Passion and commitment to learning!
 
-📅 Công bố kết quả: 10/6/2025.
+📅 Announcement of Results: 10/5/2025
 
-💰 Chi phí? Hoàn toàn miễn phí! (bao gồm ăn ở, đi lại, tài liệu, phần mềm).
+💰 Cost: Completely Free Program, Covering Lunch, Transport, Learning Materials
 
-# Liên hệ 
+# Contact
 
-📩 Liên hệ: seas.cvn@gmail.com
+📩 Contact us through the WhatsApp Group
 
-📲 Theo dõi tại: Facebook.com/seas.cvn
+📲 Facebook: m.facebook.com/61565660014020/
