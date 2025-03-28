@@ -1,6 +1,6 @@
 ---
 title: Register for Opportunities
-layout: teams
+layout: page
 description: 
 intro_image: "images/team/cover5.png"
 intro_image_absolute: true
