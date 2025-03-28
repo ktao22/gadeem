@@ -5,7 +5,7 @@ description: Join us this June
 bodyClass: page-about
 ---
 
-UWC (United World College) STEM for Peace 
+# UWC (United World College) STEM for Peace 
 
 📌 Since April 2023, many families have fled from Sudan to Egypt seeking peace. Due to the huge number, many students were forced to go illegally to Egypt, need to get refugee status in order to be recognised in the country and can only go to certain schools for refugees in Egypt. A major problem with these schools is that they are overloaded and they cannot take as many refugee students as there are, and many families cannot afford the very few necessities for their children to go to school. UWC STEM for Peace is a sustainable education project utilizing technology and science educational resources to tackle the problem from two sides. 
 
