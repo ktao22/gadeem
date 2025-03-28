@@ -1,10 +1,10 @@
 ---
-title: "Nguyễn Thị Hải Yến"
+title: "Huzifa Mahmoud"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nguyen-thi-hai-yen.jpg"
-jobtitle: "Ban tổ chức tại địa phương"
+image: "images/team/huzifa.png"
+jobtitle: "Chemistry Teacher"
 promoted: true
 weight: 2
 ---
 
-Hiệu Trưởng Trường Chuyên Võ Nguyên Giáp
+iGCSE Chemistry Tutor
