@@ -2,7 +2,7 @@
 title: "Mohamed Muaz"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/mohamed.png"
-jobtitle: "Co-founder of UWC STEM for Peace Program"
+jobtitle: "Founder & Organizer of UWC STEM for Peace"
 linkedinurl: "https://www.linkedin.com/in/mohamed-muaz-omer/"
 promoted: true
 weight: 1
