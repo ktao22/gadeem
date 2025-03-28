@@ -1,7 +1,7 @@
 [
   {
-    "title": "Chương Trình Tiên Tiến",
-    "description": "Khám phá AI, Năng lượng Tái tạo, Nhiệt hạch và Điện toán Lượng tử qua các khóa học thực hành.",
+    "title": "STEM for Secondary Students",
+    "description": "Learn about the foundations of science, mathematics and computer science through hands-on lab experiences!",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Trải Nghiệm Thực Hành",
-    "description": "Tham gia thí nghiệm, hội thảo tương tác và làm việc nhóm để biến ý tưởng thành sản phẩm.",
+    "title": "Project Experience",
+    "description": "Plan and complete your own collaborative project designed to apply our skills in STEM to a problem!",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Chuyên Gia Hướng Dẫn",
-    "description": "Nhận hỗ trợ từ giảng viên và chuyên gia, cùng định hướng nghề nghiệp trong lĩnh vực kỹ thuật và khoa học.",
+    "title": "Expert Instructor",
+    "description": "Instruction from current medical school students, teachers and learn about careers in science, technology and mathematics!",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
