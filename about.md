@@ -21,7 +21,7 @@ Our Program:
 
 📅 Time: June (Date, Timing and Signup to be released in April)
 
-📍 Location: Africa Hope Learning Centre (https//www.africanhopelc.org/) Corner of roads 107 and 159 (#18) Maadi, Cairo, Egypt. A 5 minute walk from the metro station Hadayak Al-Maadi, on the side of the Cornish. 
+📍 Location: Africa Hope Learning Centre (www.africanhopelc.org/) Corner of roads 107 and 159 (#18) Maadi, Cairo, Egypt. A 5 minute walk from the metro station Hadayak Al-Maadi, on the side of the Cornish. 
 
 
 AHLC is located in a relatively small building that once housed a family of 8 in the greater Cairo area. Every possible space is utilized, with both morning and afternoon shifts, in order to accommodate the many students who have sought refuge in Egypt due to war, violence and persecution in their home countries. Due to overcrowding and prejudice in local schools, refugee children need alternate learning centres. AHLC is a safe place of learning for more than 450 refugee children, K-8, with at least 10 different African nations, including North and South Sudan, Eritrea and Ethiopia. It is here where students receive instruction in core subjects, character training, access to basic health care and are guaranteed a nutritious, hot meal each day.
@@ -50,7 +50,7 @@ This program will help students develop transferable understanding of concepts, 
 
 ✅ Experience Inter-Cultural Exchange in Sciences
 
-Unlike the traditional STEM classroom where students learn by reciting concepts and practicing sets and sets of problems, we will use the Concept-based Inquiry model in this program, and reflect constantly on classroom practices based on the Teaching for Robust Understanding (TRU) framework. We will identify important concepts and practices of specific STEM disciplines and design activities that invite students to learn these important ideas. With the help of teachers at the African Hope Learning Center, this program will also use “Whanaungatanga” to train teachers in caring for students, having high expectations for students, and creating safe classroom environments for students to celebrate their culture as part of their learning (Bishop, 2019).
+Unlike the traditional STEM classroom where students learn by reciting concepts and practicing sets and sets of problems, we will use the Concept-based Inquiry model in this program, and reflect constantly on classroom practices based on the Teaching for Robust Understanding (TRU) framework. We will identify important concepts and practices of specific STEM disciplines and design activities that invite students to learn these important ideas. 
 
 # Enrollment from April 20 - May 1st, 2025
 📌 Admission Criteria: Spots for 50 Students with Passion and Commitment to Learning!
