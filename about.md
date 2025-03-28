@@ -61,7 +61,4 @@ Unlike the traditional STEM classroom where students learn by reciting concepts 
 
 # Contact
 
-📩 Contact us through the WhatsApp Group 
-at https://chat.whatsapp.com/F4fdxZbdIxK3ab3wokqIjb
-
-📲 Facebook: https://m.facebook.com/61565660014020/
+📩 Contact us through the WhatsApp Group Chat to learn more!
