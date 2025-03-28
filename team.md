@@ -4,7 +4,7 @@ layout: teams
 description: Team
 permalink: "/team/"
 intro_image_absolute: true
-intro_image: "images/team/cover2.png"
+intro_image: "images/team/cover4.png"
 intro_image_hide_on_mobile: false
 ---
 
