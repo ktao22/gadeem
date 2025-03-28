@@ -5,9 +5,8 @@ description: Nộp Đơn
 bodyClass: page-about
 ---
 
-# Đơn cho học sinh THPT ứng tuyển trường hè
-Trường hè sẽ mở cửa tuyển sinh từ 01/4 - 31/5/2025
+# UWC STEM for Peace (OPEN)
+Join us in El-Maadi at Africa Hope Learning Centre this June for the STEM bootcamp!
 
-# Đơn ứng tuyển trợ giảng (closed)
-
-Đơn ứng tuyển trợ giảng hiện tại đã được đóng.
+# iGCSE Preparation Classes (OPEN FOR NEXT YEAR)
+Online, Google Meets
