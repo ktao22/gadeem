@@ -1,6 +1,6 @@
 ---
 title: Donate
-layout: teams
+layout: page
 description: Donate
 intro_image: "images/team/cover4.png"
 intro_image_absolute: true
