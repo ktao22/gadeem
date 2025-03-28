@@ -1,7 +1,7 @@
 ---
 title: Nộp Đơn
 layout: page
-description: Open Opportunities
+description: Register for Opportunities
 bodyClass: page-about
 ---
 
