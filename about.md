@@ -1,5 +1,5 @@
 ---
-title: STEM for Peace Summer Bootcamp
+title: STEM for Peace Summer Summer Program
 layout: page
 description: Join us this June
 intro_image: "images/illustrations/stem.png"
@@ -13,11 +13,11 @@ bodyClass: page-about
 
 Our Program:
 
-✅ 3-week bootcamp in sciences and mathematics
+✅ 3-week Summer Program in sciences and mathematics
 
 ✅ Hardware: Building mini science lab in Africa Hope Learning Centre for experimental science learning
 
-✅ Software: HopEd, a self-paced learning app based on relevant local curriculums to help students catch up with gaps in education; Summer Bootcamp + Short Courses during the term taught by on-site and online teachers from United World College
+✅ Software: HopEd, a self-paced learning app based on relevant local curriculums to help students catch up with gaps in education; Summer Program + Short Courses during the term taught by on-site and online teachers from United World College
 
 # Program Information
 
@@ -33,7 +33,7 @@ AHLC is located in a relatively small building that once housed a family of 8 in
 🎓 Outcome: Certificate of Program Learning, join STEM Fellows Mentorship Program for courses throughout the school year delivered by United World College students
 
 # Curriculum
-✨ Week 1: Bootcamp (intensive training) of foundational subjects in English and Mathematics.
+✨ Week 1: Summer Program (intensive training) of foundational subjects in English and Mathematics.
 
 🚀 Week 2: Science Experiment Exploration - Physics, Biology and Chemistry
 
