@@ -2,7 +2,7 @@
 title: STEM for Peace Summer Summer Program
 layout: page
 description: Join us this June
-intro_image: "images/illustrations/stem.png"
+intro_image: "images/illustrations/stem.jpeg"
 bodyClass: page-about
 ---
 
