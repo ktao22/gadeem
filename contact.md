@@ -7,4 +7,4 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-We are reachable on WhatsApp!
+[Join our WhatsApp community of passionate learners!](https://https//chat.whatsapp.com/F4fdxZbdIxK3ab3wokqIjb)
